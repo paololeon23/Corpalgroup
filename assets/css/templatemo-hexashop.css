@@ -583,7 +583,7 @@ header
     border-top: 1px solid #eee;
   }
   .header-area.header-sticky .nav {
-    margin-top: 100px !important;
+    margin-top: 85px !important;
   }
   .header-area .main-nav .nav li {
     width: 100%;
@@ -774,7 +774,7 @@ Men
 }
 
 #men .section-heading {
-  margin-bottom: 60px;
+  margin-bottom: 18px;
 }
 
 #men .item .down-content {
@@ -930,8 +930,8 @@ Women
 */
 
 #women {
-  padding-top: 50px;
-  padding-bottom: 90px;
+  padding-top: 48px;
+  padding-bottom: 60px;
   border-bottom: 3px dotted #eee;
 }
 
@@ -1092,7 +1092,7 @@ Kids
 
 #kids {
   padding-top: 50px;
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   border-bottom: 3px dotted #eee;
 }
 
@@ -1358,7 +1358,7 @@ Social
 
 #social {
   margin-top: 50px;
-  padding-bottom: 90px;
+  padding-bottom: 50px;
   border-bottom: 3px dotted #eee;
 }
 
@@ -1368,7 +1368,7 @@ Social
 }
 
 #social .images {
-  margin-top: 60px;
+  margin-top: 12px;
   padding-left: 15px;
   padding-right: 15px;
 }
